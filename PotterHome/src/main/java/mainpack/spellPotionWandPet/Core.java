@@ -1,0 +1,18 @@
+package mainpack.spellPotionWandPet;
+
+public enum Core {
+    PHOENIX_FEATHER,
+    DRAGON_HEARTSTRING,
+    UNICORN_HAIR,
+    THESTRAL_TAIL_HAIR,
+    BASILISK_HORN,
+    DRAGON_SCALE,
+    TROLL_HAIR,
+    NIFFLER_FUR,
+    CENTAUR_HAIR,
+    KNEAZLE_FUR,
+    KERATIN,
+    DRAGON_BLOOD,
+    DRAGON_BONE,
+    DRAGON_EYE,
+}
