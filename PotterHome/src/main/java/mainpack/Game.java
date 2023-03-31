@@ -90,8 +90,6 @@ public class Game {
         System.out.println("You have " + wizard.getHealth() + " health.");
         System.out.println("You have " + wizard.getLevel() + " level.");
         System.out.println("You have " + wizard.getExperience() + " experience.");
-        System.out.println("You have " + wizard.getKnownSpells() + " spells.");
-        System.out.println("You have " + wizard.getPotions() + " potions.");
         System.out.println(" ");
         System.out.println("You are now ready to start your adventure!");
         System.out.println(" ");

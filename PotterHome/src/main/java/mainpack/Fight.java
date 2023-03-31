@@ -33,7 +33,6 @@ public class Fight {
                             boolean validSpell = false;
                             while (!validSpell) {
                                 System.out.println("Which spell do you want to use?");
-                                System.out.println(wizard.getKnownSpells());
                                 for (int i = 0; i < wizard.getKnownSpells().size(); i++) {
                                     System.out.println(i + 1 + ". " + wizard.getKnownSpells().get(i).getName());
                                 }
